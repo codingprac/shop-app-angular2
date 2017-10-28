@@ -1,0 +1,15 @@
+/dist
+/tmp
+/build
+/out-tsc
+
+/node_modules
+
+/.idea
+
+.project
+.classpath
+.c9
+*.launch
+.editorconfig
+desktop.ini
